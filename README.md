@@ -14,9 +14,9 @@ In the real world, data scientists don't just write code; they analyze data to f
 
 You have exactly 3 days to explore the data, build your model, and craft your story. You can work at your own pace throughout this window.
 
-## 🎯 The Challenge: How it Works
+## 🎯 The Challenge
 
-When the competition begins on Feb 22, you will receive a **Dataset** and a **Business Scenario** (e.g., "You are a data scientist at a retail company, and sales are dropping. Figure out why and predict next month's numbers").
+**Scenario**: You are hired as a Data Scientist to explain **why the cutsomers of XY company are leaving**.
 
 Your task is broken down into three main steps:
 
